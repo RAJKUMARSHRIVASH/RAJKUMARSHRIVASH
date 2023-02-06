@@ -30,14 +30,22 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raj04837166" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="raj04837166" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/linkedin.com/in/raj-kumar-sen-b9b2b319b" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin.com/in/raj-kumar-sen-b9b2b319b" height="30" width="40" /></a>
+  
 <a href="https://stackoverflow.com/users/https://meta.stackoverflow.com/users/21048620/raj-kumar-sen" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Sz_b0DT-gRXj4YTyFs5oJ8OmqyJsR0BsjbLar5XBWVCUBNHRGoOkd7wTe-7iEjsqIHk&usqp=CAU" alt="https://meta.stackoverflow.com/users/21048620/raj-kumar-sen" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/rajkumarshrivash374" target="blank"><img align="center" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" alt="https://codesandbox.io/u/rajkumarshrivash374" height="30" width="40" /></a>
-<a href="https://fb.com/edit https://www.facebook.com/rajkumar.shrivash.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edit https://www.facebook.com/rajkumar.shrivash.1" height="30" width="40" /></a>
-<a href="https://instagram.com/raj_kumar_shrivash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_kumar_shrivash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@rajkibaat01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rajkibaat01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/rajkumarshrivas2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rajkumarshrivas2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rajkumarshrivash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajkumarshrivash/" height="30" width="40" /></a>
+  
+<a href="https://codesandbox.com/https://codesandbox.io/u/rajkumarshrivash374" target="blank"><img align="center" src="https://img.stackshare.io/service/7434/Screen_20Shot_202017-08-11_20at_205.55.05_20AM.png" alt="https://codesandbox.io/u/rajkumarshrivash374" height="30" width="40" /></a>
+  
+<a href="https://fb.com/edit https://www.facebook.com/rajkumar.shrivash.1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" alt="edit https://www.facebook.com/rajkumar.shrivash.1" height="30" width="40" /></a>
+  
+<a href="https://instagram.com/raj_kumar_shrivash" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="raj_kumar_shrivash" height="30" width="40" /></a>
+  
+<a href="https://www.youtube.com/c/https://youtube.com/@rajkibaat01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://youtube.com/@rajkibaat01" height="30" width="40" /></a>
+  
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/rajkumarshrivas2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="https://www.hackerrank.com/rajkumarshrivas2" height="30" width="40" /></a>
+  
+<a href="https://www.leetcode.com/https://leetcode.com/rajkumarshrivash/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" alt="https://leetcode.com/rajkumarshrivash/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
