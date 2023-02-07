@@ -9,21 +9,21 @@
 
 <p align="left"> <a href="https://twitter.com/raj04837166" target="blank"><img src="https://img.shields.io/twitter/follow/raj04837166?logo=twitter&style=for-the-badge" alt="raj04837166" /></a> </p>
 
-- 🔭 I’m currently working on **adding soon...**
+- 🔭 I’m currently working on **Masai School**
 
 - 🌱 I’m currently learning **Node, Express, MongoDB, and Mongoose.**
 
-- 👯 I’m looking to collaborate on **adding soon...**
+- 👯 I’m looking to collaborate on **Full stack projects**
 
-- 🤝 I’m looking for help with **adding soon...**
+- 🤝 I’m looking for help with **Placements**
 
-- 👨‍💻 All of my projects are available at [adding soon...](adding soon...)
+- 👨‍💻 All of my projects are available at [https://rajkumarshrivash.github.io/](https://rajkumarshrivash.github.io/)
 
 - 💬 Ask me about **Full Stack Web Development.**
 
 - 📫 How to reach me **rajkumarshrivash374@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1GcdC4RiJICxJAFz4eRlqwcxASGaxfKDB](https://drive.google.com/drive/folders/1GcdC4RiJICxJAFz4eRlqwcxASGaxfKDB)
+- 📄 Know about my experiences (Resume) [https://drive.google.com/drive/folders/1GcdC4RiJICxJAFz4eRlqwcxASGaxfKDB](https://drive.google.com/drive/folders/1GcdC4RiJICxJAFz4eRlqwcxASGaxfKDB)
 
 - ⚡ Fun fact **I am educationally a Mechanical Engineer experience in Mech. Design Engineer currently learning Full-stack web development and by passion I am a singer.**
 
