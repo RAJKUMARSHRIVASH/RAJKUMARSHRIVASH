@@ -1,13 +1,13 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]
 <h1 align="center">Hi 👋, I'm Raj Kumar Sen</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India having 1200+ hours of hands-on experience on the same.</h3>
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="coder gif" width="200" style="border-radius:20px;">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="coder gif" width="30%" style="border-radius:20px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarshrivash&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarshrivash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumarshrivash" alt="rajkumarshrivash" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/raj04837166" target="blank"><img src="https://img.shields.io/twitter/follow/raj04837166?logo=twitter&style=for-the-badge" alt="raj04837166" /></a> </p>
+<p align="left"> <a href="https://twitter.com/raj04837166" target="_blank"><img src="https://img.shields.io/twitter/follow/raj04837166?logo=twitter&style=for-the-badge" alt="raj04837166" /></a> </p>
 
 - 🔭 I’m currently working on **Masai School**
 
