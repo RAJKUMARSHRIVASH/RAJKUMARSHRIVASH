@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **rajkumarshrivash374@gmail.com**
 
-- 📄 Know about my experiences (Resume) [https://drive.google.com/drive/folders/1GcdC4RiJICxJAFz4eRlqwcxASGaxfKDB](https://drive.google.com/drive/folders/1GcdC4RiJICxJAFz4eRlqwcxASGaxfKDB)
+- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1h2bvMLgVDIAMnLiWZxMrdw_6wrBuLnhH/view?usp=share_link](https://drive.google.com/file/d/1h2bvMLgVDIAMnLiWZxMrdw_6wrBuLnhH/view?usp=share_link)
 
 - ⚡ Fun fact **I am educationally a Mechanical Engineer experience in Mech. Design Engineer currently learning Full-stack web development and by passion I am a singer.**
 
