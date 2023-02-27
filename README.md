@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 <a href="https://twitter.com/raj04837166" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="raj04837166" height="30" width="40" /></a>
-<a href="linkedin.com/in/raj-kumar-sen-b9b2b319b" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/raj-kumar-sen-b9b2b319b" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21048620/raj-kumar-sen" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Sz_b0DT-gRXj4YTyFs5oJ8OmqyJsR0BsjbLar5XBWVCUBNHRGoOkd7wTe-7iEjsqIHk&usqp=CAU" alt="https://meta.stackoverflow.com/users/21048620/raj-kumar-sen" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/rajkumarshrivash374" target="_blank"><img align="center" src="https://img.stackshare.io/service/7434/Screen_20Shot_202017-08-11_20at_205.55.05_20AM.png" alt="https://codesandbox.io/u/rajkumarshrivash374" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rajkumar.shrivash.1/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" alt="edit https://www.facebook.com/rajkumar.shrivash.1" height="30" width="40" /></a>
