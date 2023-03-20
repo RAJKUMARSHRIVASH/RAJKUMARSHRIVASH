@@ -36,7 +36,8 @@
 <a href="https://www.facebook.com/rajkumar.shrivash.1/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" alt="edit https://www.facebook.com/rajkumar.shrivash.1" height="30" width="40" /></a>
 <a href="https://www.instagram.com/raj_kumar_shrivash/?igshid=ZDdkNTZiNTM%3D" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="raj_kumar_shrivash" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@rajkibaat01" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://youtube.com/@rajkibaat01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajkumarshrivas2" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="https://www.hackerrank.com/rajkumarshrivas2" height="30" width="40" /></a>
+<!-- 
+<a href="https://www.hackerrank.com/rajkumarshrivas2" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="https://www.hackerrank.com/rajkumarshrivas2" height="30" width="40" /></a> -->
 <a href="https://leetcode.com/rajkumarshrivash/" target="_blank"><img align="center" src="https://repository-images.githubusercontent.com/408927712/1c5ce46e-266f-43f0-b543-75bf341239b5" alt="https://leetcode.com/rajkumarshrivash/" height="30" width="40" /></a>
 </p>
 
