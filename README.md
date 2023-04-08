@@ -1,9 +1,9 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]
+![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Raj Kumar Sen</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India having 1200+ hours of hands-on experience on the same.</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from India having 1200+ hours of hands-on experience on coding and solved more than 600+ DSA questions.</h3>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="coder gif" width="30%" style="border-radius:20px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarshrivash&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarshrivash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarshrivash&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarshrivash" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumarshrivash" alt="rajkumarshrivash" /></a> </p>
 
@@ -11,17 +11,15 @@
 
 - 🔭 I’m currently working on **Masai School**
 
-- 🌱 I’m currently learning **Node, Express, MongoDB, and Mongoose.**
+- 🌱 I’m currently learning **React, SQL and System Design.**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
-
-- 🤝 I’m looking for help with **Placements**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rajkumarshrivash.github.io/)
 
 - 💬 Ask me about **Full Stack Web Development.**
 
-- 📫 How to reach me **rajkumarshrivash374@gmail.com**
+- 📫 How to reach me [rajkumarshrivash374@gmail.com](rajkumarshrivash374@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h2bvMLgVDIAMnLiWZxMrdw_6wrBuLnhH/view?usp=share_link)
 
@@ -33,9 +31,9 @@
 <a href="http://linkedin.com/in/raj-kumar-sen-b9b2b319b" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21048620/raj-kumar-sen" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Sz_b0DT-gRXj4YTyFs5oJ8OmqyJsR0BsjbLar5XBWVCUBNHRGoOkd7wTe-7iEjsqIHk&usqp=CAU" alt="https://meta.stackoverflow.com/users/21048620/raj-kumar-sen" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/rajkumarshrivash374" target="_blank"><img align="center" src="https://img.stackshare.io/service/7434/Screen_20Shot_202017-08-11_20at_205.55.05_20AM.png" alt="https://codesandbox.io/u/rajkumarshrivash374" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rajkumar.shrivash.1/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" alt="edit https://www.facebook.com/rajkumar.shrivash.1" height="30" width="40" /></a>
-<a href="https://www.instagram.com/raj_kumar_shrivash/?igshid=ZDdkNTZiNTM%3D" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="raj_kumar_shrivash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@rajkibaat01" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://youtube.com/@rajkibaat01" height="30" width="40" /></a>
+<!-- <a href="https://www.facebook.com/rajkumar.shrivash.1/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" alt="edit https://www.facebook.com/rajkumar.shrivash.1" height="30" width="40" /></a> -->
+<!-- <a href="https://www.instagram.com/raj_kumar_shrivash/?igshid=ZDdkNTZiNTM%3D" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="raj_kumar_shrivash" height="30" width="40" /></a> -->
+<!-- <a href="https://www.youtube.com/@rajkibaat01" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://youtube.com/@rajkibaat01" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/rajkumarshrivas2" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="https://www.hackerrank.com/rajkumarshrivas2" height="30" width="40" /></a> -->
 <a href="https://leetcode.com/rajkumarshrivash/" target="_blank"><img align="center" src="https://repository-images.githubusercontent.com/408927712/1c5ce46e-266f-43f0-b543-75bf341239b5" alt="https://leetcode.com/rajkumarshrivash/" height="30" width="40" /></a>
 </p>
