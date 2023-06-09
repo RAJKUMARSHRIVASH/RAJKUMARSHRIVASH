@@ -15,8 +15,10 @@
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://rajkumarshrivash.github.io/)
-- My Portfolio <a href="https://rajkumarshrivash.github.io/">Click here</a>
+<!-- - 👨‍💻 All of my projects are available at my [Portfolio](https://rajkumarshrivash.github.io/) -->
+<!-- - My Portfolio <a href="https://rajkumarshrivash.github.io/">Click here</a> -->
+-   https://rajkumarshrivash.github.io/
+
 
 
 - 💬 Ask me about **Full Stack Web Development.**
