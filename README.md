@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/raj04837166" target="_blank"><img src="https://img.shields.io/twitter/follow/raj04837166?logo=twitter&style=for-the-badge" alt="raj04837166" /></a> </p>
 
-- 🔭 I’m currently working on **Masai School**
+- 🔭 I’m currently working on **Hana Software Inc.**
+
+- 🔭 I’m Ex-Student of **Masai School**
 
 - 🌱 I’m currently learning **React, SQL and System Design.**
 
@@ -27,7 +29,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h2bvMLgVDIAMnLiWZxMrdw_6wrBuLnhH/view?usp=share_link)
 
-- ⚡ Fun fact **I am educationally a Mechanical Engineer experience in Mech. Design Engineer currently learning Full-stack web development and by passion I am a singer.**
+- ⚡ Fun fact **I am educationally a Mechanical Engineer with experience in Mech. Design Engineer currently learning Full-stack web development, and by passion, I am a singer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
